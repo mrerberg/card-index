@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "f8cca0801b6c7533",
+    "type": "split",
+    "children": [
+      {
+        "id": "e29525edaccda0b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa12ef21fa95bd5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming-patterns/strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0c73772e043933f",
+    "type": "split",
+    "children": [
+      {
+        "id": "151c2965fdfa12cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "013d38e51c76d707",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66e40665cff926d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae0c1bd3f12850d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5feb21b544c7d88c",
+    "type": "split",
+    "children": [
+      {
+        "id": "433cdc74c3a9b1e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff73690ece6e668e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming-patterns/strategy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60ded7a39d34dd12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "programming-patterns/strategy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa800dfc13f73f20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7247b1dabd18d9b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "programming-patterns/strategy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa12ef21fa95bd5c",
+  "lastOpenFiles": [
+    "programming-patterns/programming-patterns.md",
+    "programming-patterns/error-first.md",
+    "programming-patterns/strategy.md",
+    "programming-patterns/dependency-injection.md",
+    "golang/Untitled.md",
+    "metaprogramming/metaprogramming.md",
+    "metaprogramming/techniques/scaffold.md",
+    "node-js/imgs/how-works-1.png",
+    "_questions.md",
+    "_questions-timur.md"
+  ]
+}

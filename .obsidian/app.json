@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./imgs",
+  "useMarkdownLinks": false,
+  "userIgnoreFilters": [
+    "_"
+  ]
+}
