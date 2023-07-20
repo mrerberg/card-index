@@ -31,6 +31,7 @@ doSomethingAsync((err, data) => {
 ```
 
 Так же паттерн может принимать следующий вид:
+
 ```js
 function useCase(dto) {
    // ...
@@ -43,6 +44,7 @@ function useCase(dto) {
 ```
 
 Или:
+
 ```js
 function useCase(dto) {
    // ...
