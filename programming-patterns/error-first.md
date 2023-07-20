@@ -6,7 +6,7 @@ tags:
 
 # Error-first
 
-Паттерн ([[programming-patterns]]) обработки ошибок в асинхронном коде при использовании callback-ов. Договоренность, при которой ошибка передается callback-у первым аргументов.
+Паттерн ([[programming-patterns]]) обработки ошибок в асинхронном коде при использовании callback-ов. Договоренность, при которой ошибка передается callback-у первым аргументом.
 
 ## Пример
 
@@ -40,24 +40,5 @@ function useCase(dto) {
    }
    // ...
    return [null, someValue]
-}
-```
-
-Или:
-
-```js
-function useCase(dto) {
-   // ...
-   if(!isValid(dto)) {
-     return {
-        error: new Error('Bad input'),
-        result: null,
-     };
-   }
-   // ...
-   return {
-     error: null,
-     result: someValue
-   }
 }
 ```

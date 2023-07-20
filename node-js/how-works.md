@@ -4,6 +4,7 @@ tags:
 ---
 
 # How works
+
 [[node-js]]
 
 К примеру, мы вызываем некое апи. Пусть будет readFile.
@@ -30,4 +31,4 @@ tags:
 
 ## Links
 
-- https://www.youtube.com/watch?v=mRvzgBGLVyM&t=125s
+- <https://www.youtube.com/watch?v=mRvzgBGLVyM&t=125s>

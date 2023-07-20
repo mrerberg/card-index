@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-patterns/strategy.md",
+                "file": "programming-patterns/callback-last.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming-patterns/strategy.md",
+                "file": "programming-patterns/callback-last.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming-patterns/strategy.md",
+                "file": "programming-patterns/callback-last.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming-patterns/strategy.md"
+                "file": "programming-patterns/callback-last.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "fa12ef21fa95bd5c",
   "lastOpenFiles": [
-    "programming-patterns/programming-patterns.md",
     "programming-patterns/error-first.md",
+    "programming-patterns/callback-last.md",
+    "programming-patterns/programming-patterns.md",
+    "data-bases/data-bases.md",
     "programming-patterns/strategy.md",
     "programming-patterns/dependency-injection.md",
     "golang/Untitled.md",
     "metaprogramming/metaprogramming.md",
     "metaprogramming/techniques/scaffold.md",
-    "node-js/imgs/how-works-1.png",
-    "_questions.md",
-    "_questions-timur.md"
+    "node-js/imgs/how-works-1.png"
   ]
 }
